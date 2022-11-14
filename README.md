@@ -1,5 +1,9 @@
 
-bu projjeyi prototype tabanlı geliştirip sonra ES-6 classlarına çevireceğiz
+# TODOLİST PROJESİ
+
+ ### Eğitim Notları
+
+###### Kaynak: https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/
 
 projeyi modüler hale getirebilmek için birden fazla js dosyası kullandk.
 
@@ -117,5 +121,3 @@ Adım 14:
     -daha sonra project.js ye gidip clearAllFilms fonksiyonu içinde if içinde bir confrim ile kullanıcıya eminmisiniz sorusu çıkartıyoruz. kullanıcı tamam yani true seçim yaparsa blok içi çalışacak. 
     -proje böylece bitti
 
-Adım 14:
-    - Bu aşamada prototype tabanlı olan projece es6 classlarına çevireceğiz.
