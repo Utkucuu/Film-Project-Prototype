@@ -1,10 +1,11 @@
 
-# TODOLİST PROJESİ
+### Film ekleme projesi 
 
- ### Eğitim Notları
+- ##### OOP Prototype kullanılmıştır.
 
-###### Kaynak: https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/
+- ##### Kaynak: https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/
 
+- ##### Eğitim Notları
 projeyi modüler hale getirebilmek için birden fazla js dosyası kullandk.
 
 Adım 1: 
